@@ -40,10 +40,9 @@ my_solution/
      requirements.txt
 ```
 
- 2. ### Description
+ 2. ### Description 
     
-    - The solution is based on the previous winning solution provided in the forums
-    - `main.py`is the main program of the training model, and the model will be saved after the training ends.
+   - `main.py`is the main program of the training model, and the model will be saved after the training ends.
     - `predict.py` is to use the already trained model to identify new images.
     - 'Config.json' saves the path required by the program. When the above file path changes, you can modify it to suit your needs.
     - Output.csv is the result of running main.py or predict.py
