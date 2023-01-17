@@ -1,0 +1,1 @@
+{"DeviceA_path": "./train_data/Device_A/", "DeviceB_path": "./train_data/Device_B/", "DeviceC_path": "./train_data/Device_C/", "DeviceD_path": "./train_data/Device_D/",  "no_device_path": "./train_data/no_device/", "predict_path": "./predict/", "save_model_path": "./saved_model/", "save_csv_path": "./"}
